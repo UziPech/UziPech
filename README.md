@@ -43,11 +43,13 @@ Más que escribir código, **construyo productos completos**. Me especializo en 
 
 ### GitHub Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UziPech%20&theme=neon-dark)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UziPech&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+</a>
+</div>
 
 ---
-###  Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UziPech&layout=compact&theme=tokyonight&hide_border=true) 
 
 ### Tech Stack (Mis Herramientas)
 
@@ -58,6 +60,17 @@ Más que escribir código, **construyo productos completos**. Me especializo en 
 </div>
 
 ---
+### Mis Métricas de GitHub
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=UziPech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=UziPech&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 📍 **Ubicación:** Mérida, Yucatán 🇲🇽
 <!--
