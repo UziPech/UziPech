@@ -66,7 +66,6 @@ Más que escribir código, **construyo productos completos**. Me especializo en 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=UziPech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
-  
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=UziPech&theme=tokyonight&hide_border=true" />
   </a>
