@@ -59,7 +59,7 @@ Más que escribir código, **construyo productos completos**. Me especializo en 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,js,html,css,tailwind,cs,postgres,supabase,mongodb,firebase,postman,vercel,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,ruby,php,angular,ts,flutter,dart,react,vite,js,html,css,tailwind,postgres,supabase,mongodb,firebase,postman,vercel,git,github&theme=dark" />
   </a>
 </div>
 
