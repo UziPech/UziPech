@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7a0528f8-9841-4ac9-ba7d-66792976a65b" width="100%" style="border-radius: 15px" alt="Banner Perfil" />
+</div>
+<br>
 
 ### ¡Hi, I´m Uziel! 👋
 
@@ -55,7 +59,7 @@ Más que escribir código, **construyo productos completos**. Me especializo en 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,cs,html,css,supabase,mongodb,firebase,vercel,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,vite,js,html,css,tailwind,cs,postgres,supabase,mongodb,firebase,postman,vercel,git,github&theme=dark" />
   </a>
 </div>
 
